@@ -2,8 +2,8 @@
 My Open Source contributions list
 
 # PublicLab
-Oct 2020 PublicLab.org 
-**Ruby**, **JavaScript**, **HTML** 
+Oct 2020 [PublicLab.org](https://publiclab.org/)  
+**Ruby**, **JavaScript**, **HTML**  
 [Link to my pull-requests](https://github.com/publiclab/plots2/pull/8634)
 
 •New front-end feature in progress
